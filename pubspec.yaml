@@ -1,0 +1,131 @@
+name: amit_ka_project_hai_naya_wala_1
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.2 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.1.5
+  webview_flutter: ^3.0.4
+  shared_preferences: ^2.0.11
+  image_picker: ^0.8.5+3
+  youtube_explode_dart: ^2.2.2
+  permission_handler: ^11.3.1
+  path_provider: ^2.1.4
+  image_gallery_saver: ^2.0.3
+  http: ^1.2.0
+  flutter_downloader: ^1.11.7
+  dio: ^5.7.0
+
+  
+
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/cr ka logo2.png
+    - assets/google.png
+    - assets/facebook.png
+    #! Images for OnBording Page
+    - assets/onbordingImages/page1.png
+    - assets/onbordingImages/page2.png
+    - assets/onbordingImages/page3.png
+    #!Images for shopping_section
+    - assets/shoppingImages/amazon.png
+    - assets/shoppingImages/ebay.png
+    - assets/shoppingImages/walmart.png
+    - assets/shoppingImages/flipkart.png
+    - assets/shoppingImages/ajio.png
+    - assets/shoppingImages/bestbuy.png
+    - assets/shoppingImages/jiomart.png
+    - assets/shoppingImages/meesho.png
+    - assets/shoppingImages/myntra.png
+    - assets/shoppingImages/nykaa.png
+    - assets/shoppingImages/shopclues.png
+    - assets/shoppingImages/shopsy.png
+    - assets/shoppingImages/snapdeal.png
+    - assets/shoppingImages/target.png
+    #! Images for Movies_section
+    - assets/moviesImages/amazonprime.png
+    - assets/moviesImages/crunchyroll.png
+    - assets/moviesImages/disney.png
+    - assets/moviesImages/hbomax.png
+    - assets/moviesImages/hotstar.png
+    - assets/moviesImages/hulu.png
+    - assets/moviesImages/jiocinema.png
+    - assets/moviesImages/netflix.png
+    - assets/moviesImages/paramount.png
+    - assets/moviesImages/sonylive.png
+    - assets/moviesImages/youtube.png
+    - assets/moviesImages/zee5.png
+    #! Images for News_section
+    - assets/newsImages/aajtak.png
+    - assets/newsImages/aljazeera.png
+    - assets/newsImages/bbc.png
+    - assets/newsImages/bloomberg.png
+    - assets/newsImages/cnn.png
+    - assets/newsImages/dainik.png
+    - assets/newsImages/esakal.png
+    - assets/newsImages/gaurdian.png
+    - assets/newsImages/googlenews.png
+    - assets/newsImages/lokmat.png
+    - assets/newsImages/maharashtratimes.png
+    - assets/newsImages/navbharat.png
+    - assets/newsImages/nytimes.png
+    - assets/newsImages/publicapp.png
+    - assets/newsImages/reuters.png
+    - assets/newsImages/washington.png
+    - assets/newsImages/way2news.png
+    #! Images for Food Section
+    - assets/foodImages/bigbasket.jpg
+    - assets/foodImages/blinkit.jpg
+    - assets/foodImages/burgerkings.jpg
+    - assets/foodImages/countrydelight.jpg
+    - assets/foodImages/dominos.jpg
+    - assets/foodImages/doordash.jpg
+    - assets/foodImages/eat24.jpg
+    - assets/foodImages/eatclub.jpg
+    - assets/foodImages/eatsure.jpg
+    - assets/foodImages/grubhub.jpg
+    - assets/foodImages/jiomart.jpg
+    - assets/foodImages/kfc.jpg
+    - assets/foodImages/lapinoz.jpg
+    - assets/foodImages/mcdonalds.jpg
+    - assets/foodImages/pizzahut.jpg
+    - assets/foodImages/postmates.jpg
+    - assets/foodImages/relianceretail.jpg
+    - assets/foodImages/swiggy.jpg
+    - assets/foodImages/ubereats.jpg
+    - assets/foodImages/zomato.jpg
+    - assets/foodImages/zepto.jpg
+    #! Images for Travel Section
+    - assets/travelImages/airbnb.png
+    - assets/travelImages/blablacar.png
+    - assets/travelImages/booking.png
+    - assets/travelImages/expedia.png
+    - assets/travelImages/goibibo.png
+    - assets/travelImages/kayak.png
+    - assets/travelImages/makemytrip.png
+    - assets/travelImages/ola.png
+    - assets/travelImages/oyo.png
+    - assets/travelImages/rapido.png
+    - assets/travelImages/redbus.png
+    - assets/travelImages/skyscanner.png
+    - assets/travelImages/travelocity.png
+    - assets/travelImages/tripadvisor.png
+    - assets/travelImages/trivago.png
+    - assets/travelImages/uber.png
+    - assets/travelImages/uts.png
+    - assets/travelImages/viator.png
+
+
+
